@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Dialogflow\\": "src/"
+            "DialogflowFullfillment\\": "src"
         }
     },
     "authors": [
