@@ -1,6 +1,6 @@
 <?php
 
-namespace DialogflowHook;
+namespace Dialogflow;
 
 use Dialogflow\Action\Conversation;
 use Dialogflow\RichMessage\Payload;
